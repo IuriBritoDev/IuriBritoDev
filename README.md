@@ -5,8 +5,8 @@
 
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IuriBritoDev&show_icons=true&theme=radical" alt="Iuri's GitHub stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriBritoDev&bg_color=0d1117&layout=compact&theme=radical" />
+  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IuriBritoDev&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IuriBritoDev&layout=compact&theme=radical)
 </div>
 
 ## Skills
