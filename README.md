@@ -2,12 +2,9 @@
 - 🔭 I’m currently working on Python projects
 - 🌱 I’m currently learning more about JavaScript
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IuriBritoDev&show_icons=true&theme=radical)
 
-
-<div>  
-  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IuriBritoDev&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IuriBritoDev&layout=compact&theme=radical)
-</div>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IuriBritoDev&layout=compact&theme=radical)
 
 ## Skills
 <div style="display: inline_block">
